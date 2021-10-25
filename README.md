@@ -18,7 +18,7 @@ This repository is about a sample application, to navigate robots on a rectangul
 ## Execution
   * Build using mvn package
   * Run java -jar target/martian-robots-0.0.1-SNAPSHOT-shaded.jar   <input_file>
-  * sample cmd java -jar target/martian-robots-0.0.1-SNAPSHOT-shaded.jar  src/test/resources/validInput.txt
+  * sample cmd java -jar target/martian-robots-<version>-shaded.jar  src/test/resources/validInput.txt
 
 ## Improvements
   * Final output to be redirected to a file
